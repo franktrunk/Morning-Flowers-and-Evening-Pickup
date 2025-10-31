@@ -1,5 +1,0 @@
-# 支持向量机
-## 最大间隔准则
-![alt text](image.png)
-* 根据最大间隔准则导出支持向量机
-![alt text](image-1.png)
